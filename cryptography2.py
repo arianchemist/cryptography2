@@ -45,15 +45,16 @@ def rRA(w):
     llf = random.choice(abc)
     llf2 = random.choice(abc)
     llf3 = random.choice(abc)
-    w[0] + llf + w[1] + w[2] + w[3] + llf2 + w[4] + w[5] + w[6] + llf3 + w[7] + w[8]
-    print(w)
+    ssa = w[0] + llf + w[1] + w[2] + w[3] + llf2 + w[4] + w[5] + w[6] + llf3 + w[7]
+    print(ssa)
 
 def VVjJ(q):
     abc2 = ["a" , "b" , "c" , "d" , "e" , "f" , "g" , "h" , "i" , "j" , "k" , "l" , "m" , "n" , "o" , "p" , "q" , "r" , "s" , "t" , "u" , "v" , "w" , "x" , "y" , "z"]
     h3 = random.choice(abc2)
     h6 = random.choice(abc2)
     h8 = random.choice(abc2)
-    q[0] + h3 + q[7] + q[5] + h6 + q[3] + h8 + q[2] + q[4] + q[1] + q[6] + q[8]
+    xxg = q[0] + h3 + q[7] + q[5] + h6 + q[3] + h8 + q[2] + q[4] + q[1] + q[6]
+    print(xxg)
 
 print("""
 a for simpleDE
